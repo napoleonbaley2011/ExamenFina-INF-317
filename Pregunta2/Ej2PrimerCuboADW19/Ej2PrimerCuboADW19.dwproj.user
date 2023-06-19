@@ -1,0 +1,39 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Adventure Works ETL</Id>
+            <Name>Adventure Works ETL</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1NE5fjwaC0qZiqxOtdbF9QAAAAAoAAAAQQBkAHYAZQBuAHQAdQByAGUAIABXAG8AcgBrAHMAIABFAFQATAAAABBmAAAAAQAAIAAAAHHh9bmvqlatGYrSSZhdGbfIuTv3lcCM9/Vkrcv1vtPLAAAAAA6AAAAAAgAAIAAAAM9KEw4gCmDYP3XNoO4L8QoUB0gXtOoPAlKfXLleEOY3EAAAAPHOrwWDEluR1c+ydQH3gJlAAAAA9O27fwfPmtyqsPESIYZP2tSgy+twzEKEEZsLGTY3eJr3VH3h+ID4X1mES8zWWh1nT6MH92lJI/dk8o3xu1tM9g==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Adventure Works DW2019</Id>
+            <Name>Adventure Works DW2019</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1NE5fjwaC0qZiqxOtdbF9QAAAAAuAAAAQQBkAHYAZQBuAHQAdQByAGUAIABXAG8AcgBrAHMAIABEAFcAMgAwADEAOQAAABBmAAAAAQAAIAAAAEA7JlrJa2STHUPmsZezRibBY3NZlQMldVRiU4AqpR2LAAAAAA6AAAAAAgAAIAAAABG44Pk1jncm/EuG0lOfoQoG8GZrupSzuY0HUaG/29gLEAAAALnlyauyKmaK2PsAbrtXTEBAAAAAEcjgRWS5c7QikVx4kQRFcvxUl5QliLIxh4ubo0z5LSeazTELYVswxciDgfh+YTtD3Ea5KxwJSz2jm/Dxix5nYQ==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Adventure Works ETL</Id>
+            <Name>Adventure Works ETL</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1NE5fjwaC0qZiqxOtdbF9QAAAAAoAAAAQQBkAHYAZQBuAHQAdQByAGUAIABXAG8AcgBrAHMAIABFAFQATAAAABBmAAAAAQAAIAAAAB+tSlVFzZCm60nq8wiEkUf4FrcbrN7MdHPmBKLJUu9QAAAAAA6AAAAAAgAAIAAAANDXtFaHwxHkG3M93Vz4C8d15ZTWobdDomq166WX3oiGEAAAAEVCfvRA88ewMcyCbpxd8LdAAAAAe4xV2HV2bPMfDbH6Bn2QL3YzIHhzqQPlPlnkg/j38gjATZ0VD+tgYcKDCJwy6zxMa2KxFfxGZLTHbQ8ltJSi0w==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Adventure Works DW2019</Id>
+            <Name>Adventure Works DW2019</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1NE5fjwaC0qZiqxOtdbF9QAAAAAuAAAAQQBkAHYAZQBuAHQAdQByAGUAIABXAG8AcgBrAHMAIABEAFcAMgAwADEAOQAAABBmAAAAAQAAIAAAAPZsjL5ifatXOb9FDHiaXs69raPZv27W1qqIeuMYNl2fAAAAAA6AAAAAAgAAIAAAAMZYvtIRrFEMRgSq/oxP9C3Xx1agZ3/iMF9GvoW0AYPHEAAAAEYnKi+9rK3rhxVSVZeOn2BAAAAA39XIjCEYQih45ovfDAuacPZnyvvC1q41q8xpYSATOA+u+fzFVIymN2P+TPCmf91uvkzWyuPwZiI7Bj5DMupGtQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>DESKTOP-9UOFJ78\KDREW</TargetServer>
+        <TargetDatabase>Ej2PrimerCuboADW19</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>

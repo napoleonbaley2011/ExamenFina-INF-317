@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Ej2PrimerCuboADW19", "Ej2PrimerCuboADW19.dwproj", "{E7A09E59-9DD1-45BF-9C9B-50A06D6B1C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A09E59-9DD1-45BF-9C9B-50A06D6B1C84}.Development|Default.ActiveCfg = Development
+		{E7A09E59-9DD1-45BF-9C9B-50A06D6B1C84}.Development|Default.Build.0 = Development
+		{E7A09E59-9DD1-45BF-9C9B-50A06D6B1C84}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6888A78-CCD5-4FCB-A9E4-1E01751720F7}
+	EndGlobalSection
+EndGlobal

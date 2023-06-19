@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "PreguntaAdventureWorkDW", "PreguntaAdventureWorkDW\PreguntaAdventureWorkDW.dtproj", "{8E677CC8-62B7-45ED-99E1-1A60B5C0801E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E677CC8-62B7-45ED-99E1-1A60B5C0801E}.Development|Default.ActiveCfg = Development
+		{8E677CC8-62B7-45ED-99E1-1A60B5C0801E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62135BFD-3E17-4322-B139-709C80D99D10}
+	EndGlobalSection
+EndGlobal
